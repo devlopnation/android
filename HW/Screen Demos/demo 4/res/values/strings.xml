@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScreenDemos4</string>
+    <string name="date">December 29, 2016</string>
+    <string name="title">Little Life Changes Inpired By Innovation</string>
+    <string name="data">"I think that's better to leverage the xml shape drawable resource power if that fits your needs.I need further information to not miss the point: why do you do that programmatically? Do you need a dynamic behavior?"</string>
+</resources>

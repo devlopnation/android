@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animal Lover</string>
+    <string name="play">Play</string>
+    <string name="QuestionOne">Question One</string>
+    <string name="QuestionTwo">Question Two</string>
+    <string name="QuestionThree">Question Three</string>
+    <string name="QuestionFour">Question Four</string>
+    <string name="QuestionFive">Question Five</string>
+    <string name="answerOne">tiger</string>
+    <string name="answerTwo">dog</string>
+    <string name="answerThree">cat</string>
+    <string name="answerFour">bird</string>
+</resources>
